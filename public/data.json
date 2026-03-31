@@ -1,0 +1,48 @@
+{
+    "name": "Ragul",
+    "brandIcon": "terminal",
+    "downloadBtn": {
+        "name": "Resume",
+        "link": "/ragulresume.pdf"
+    },
+    "navItems": [
+        {
+            "label": "Home",
+            "id": "home"
+        },
+        {
+            "label": "About",
+            "id": "about"
+        },
+        {
+            "label": "Experience",
+            "id": "experience"
+        },
+        {
+            "label": "Projects",
+            "id": "projects"
+        },
+        {
+            "label": "Stack",
+            "id": "stack"
+        },
+        {
+            "label": "Contact",
+            "id": "contact"
+        }
+    ],
+    "home": {
+        "availability": "Available for Work",
+        "name": "RAGUL DHIRAVIDAN",
+        "role": "Software Engineer",
+        "desc": "Architecting high-performance digital ecosystems through precision engineering and intentional design. Focused on building scalable, kinetic user experiences.",
+        "primaryBtn": {
+            "name": "Initiate Contact",
+            "route": "contact"
+        },
+        "secondaryBtn": {
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/raguld3v/"
+        }
+    }
+}
